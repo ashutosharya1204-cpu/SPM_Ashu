@@ -1,2 +1,2 @@
 # SPM_Ashu
-The analysis shows that study habits are the most critical factor in determining student performance. However, lifestyle elements such as mental health and screen time also play a significant role. A balanced approach combining focused study and healthy living leads to better academic outcomes.
+This project focuses on analyzing student performance using a structured dataset containing academic, lifestyle, and behavioral factors. The goal is to identify which factors have the most significant impact on exam scores and to derive meaningful insights that can help improve student outcomes.
