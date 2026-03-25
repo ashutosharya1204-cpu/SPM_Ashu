@@ -1,2 +1,31 @@
 # SPM_Ashu
-This project focuses on analyzing student performance using a structured dataset containing academic, lifestyle, and behavioral factors. The goal is to identify which factors have the most significant impact on exam scores and to derive meaningful insights that can help improve student outcomes.
+📊 Student Performance Analysis using Excel
+
+This project analyzes student performance based on lifestyle factors such as study habits, sleep, social media usage, and mental health.
+
+🎯 Objective
+
+To identify key factors that influence academic performance and provide actionable insights.
+
+🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Data Visualization
+
+📌 Key Features
+
+* Data Cleaning & Transformation
+* KPI Creation
+* Interactive Dashboard with Slicers
+* Insight Generation
+
+📊 Key Insights
+
+* Study hours positively impact exam performance
+* High screen time negatively affects scores
+* Healthy lifestyle improves academic results
+
+📁 Outcome
+
+A dynamic Excel dashboard that helps understand student behavior and performance patterns.
