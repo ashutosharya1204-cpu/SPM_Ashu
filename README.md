@@ -1,4 +1,5 @@
-# SPM_Ashu
+# Student_performace_Analysis
+
 📊 Student Performance Analysis using Excel
 
 This project analyzes student performance based on lifestyle factors such as study habits, sleep, social media usage, and mental health.
